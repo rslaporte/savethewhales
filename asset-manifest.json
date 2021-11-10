@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/savethewhales/static/css/main.09ec6717.chunk.css",
+    "main.js": "/savethewhales/static/js/main.aa008b6c.chunk.js",
+    "main.js.map": "/savethewhales/static/js/main.aa008b6c.chunk.js.map",
+    "runtime-main.js": "/savethewhales/static/js/runtime-main.1510bd24.js",
+    "runtime-main.js.map": "/savethewhales/static/js/runtime-main.1510bd24.js.map",
+    "static/js/2.a1f7c845.chunk.js": "/savethewhales/static/js/2.a1f7c845.chunk.js",
+    "static/js/2.a1f7c845.chunk.js.map": "/savethewhales/static/js/2.a1f7c845.chunk.js.map",
+    "index.html": "/savethewhales/index.html",
+    "static/css/main.09ec6717.chunk.css.map": "/savethewhales/static/css/main.09ec6717.chunk.css.map",
+    "static/js/2.a1f7c845.chunk.js.LICENSE.txt": "/savethewhales/static/js/2.a1f7c845.chunk.js.LICENSE.txt",
+    "static/media/cartman.jpg": "/savethewhales/static/media/cartman.b0feb2dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1510bd24.js",
+    "static/js/2.a1f7c845.chunk.js",
+    "static/css/main.09ec6717.chunk.css",
+    "static/js/main.aa008b6c.chunk.js"
+  ]
+}
