@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/savethewhales/static/css/main.09ec6717.chunk.css",
-    "main.js": "/savethewhales/static/js/main.aa008b6c.chunk.js",
-    "main.js.map": "/savethewhales/static/js/main.aa008b6c.chunk.js.map",
+    "main.js": "/savethewhales/static/js/main.bb723fc8.chunk.js",
+    "main.js.map": "/savethewhales/static/js/main.bb723fc8.chunk.js.map",
     "runtime-main.js": "/savethewhales/static/js/runtime-main.1510bd24.js",
     "runtime-main.js.map": "/savethewhales/static/js/runtime-main.1510bd24.js.map",
     "static/js/2.a1f7c845.chunk.js": "/savethewhales/static/js/2.a1f7c845.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.1510bd24.js",
     "static/js/2.a1f7c845.chunk.js",
     "static/css/main.09ec6717.chunk.css",
-    "static/js/main.aa008b6c.chunk.js"
+    "static/js/main.bb723fc8.chunk.js"
   ]
 }
